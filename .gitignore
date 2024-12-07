@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+
+# Compiled JavaScript output
+dist/
+
+# Logs and debug files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# TypeScript
+*.tsbuildinfo
+
+# Test Coverage
+coverage/
+
+# Environment files
+.env
+.env.*

@@ -1,0 +1,9 @@
+name: "Hello Action"
+description: "A simple GitHub Action that greets a user"
+inputs:
+  name:
+    description: "Name of the person to greet"
+    required: true
+runs:
+  using: "node16"
+  main: "dist/main.js"
