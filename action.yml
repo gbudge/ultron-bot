@@ -1,4 +1,4 @@
-name: "Hello Action"
+name: "UltronBot-Learn"
 description: "A simple GitHub Action that greets a user"
 inputs:
   name:
